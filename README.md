@@ -14,7 +14,7 @@ I'm Sergey (he\him) - an engineer who is interested in programming, microcontrol
 
 #### My stats
 
-<p align="center">
+<p>
   <img height=200 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snikitin-de&theme=dark" alt="Sergey Nikitin" />
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=snikitin-de&theme=dark&show_icons=true&locale=en" alt="Sergey Nikitin" />
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=snikitin-de&theme=dark&show_icons=true&locale=en&layout=compact" alt="Sergey Nikitin" />
