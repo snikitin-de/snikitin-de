@@ -15,7 +15,8 @@ I'm Sergey (he\him) - an engineer who is interested in programming, microcontrol
 #### My stats
 
 <p>
-  <img height=200 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snikitin-de&theme=dark" alt="Sergey Nikitin" />
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=snikitin-de&theme=dark&show_icons=true&locale=en" alt="Sergey Nikitin" />
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=snikitin-de&theme=dark&show_icons=true&locale=en&layout=compact" alt="Sergey Nikitin" />
+  <a href=""><img height=200 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snikitin-de&theme=dark" alt="Sergey Nikitin"/></a>
+  <a href=""><img height=200 src="https://github-readme-stats-sigma-five.vercel.app/api?username=snikitin-de&theme=dark&show_icons=true&hide_border=true&count_private=true"/></a>
+  <a href=""><img height=200 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=snikitin-de&theme=dark&show_icons=true&hide_border=true&layout=compact"/></a>
+  <a href=""><img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=snikitin-de&theme=dark&hide_border=true"/></a>
 </p>
