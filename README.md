@@ -19,7 +19,7 @@ An engineer who is interested in programming, microcontrollers and 3D printing. 
 
 #### My stats
 
-<p>
+<p align="center">
   <a href=""><img height=200 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snikitin-de&theme=dark" alt="Sergey Nikitin"/></a>
   <a href=""><img height=200 src="https://github-readme-stats-sigma-five.vercel.app/api?username=snikitin-de&theme=dark&show_icons=true&hide_border=true&count_private=true"/></a>
   <a href=""><img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=snikitin-de&theme=dark&hide_border=true"/></a>
