@@ -20,3 +20,9 @@ I'm Sergey (he\him) - an engineer who is interested in programming, microcontrol
   <a href=""><img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=snikitin-de&theme=dark&hide_border=true"/></a>
   <a href=""><img height=200 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=snikitin-de&theme=dark&show_icons=true&hide_border=true&layout=compact"/></a>
 </p>
+
+### My certificates
+
+- [Основы программирования](https://stepik.org/cert/1877348)
+- [Тестирование ПО: Postman для тестирования API](https://stepik.org/cert/2108518)
+- [Docker для начинающих + практический опыт](https://stepik.org/cert/2142747)
