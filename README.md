@@ -28,6 +28,7 @@ An engineer who is interested in programming, microcontrollers and 3D printing. 
 
 #### My certificates
 
-- [Основы программирования](https://stepik.org/cert/1877348)
-- [Тестирование ПО: Postman для тестирования API](https://stepik.org/cert/2108518)
-- [Docker для начинающих + практический опыт](https://stepik.org/cert/2142747)
+- [Programming Fundamentals](https://stepik.org/cert/1877348)
+- [Software Testing: Postman for API Testing](https://stepik.org/cert/2108518)
+- [Docker for beginners + hands-on experience](https://stepik.org/cert/2142747)
+   
