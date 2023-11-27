@@ -4,7 +4,7 @@
 
 #### About me
 
-An engineer who is interested in programming, microcontrollers and 3D printing. I am developing C#, Python apps for Windows and Java, Kotlin apps for Android.
+An engineer who is interested in programming, microcontrollers and 3D printing. I am developing C#, Python apps for Windows.
 
 - 🌱 I’m currently learning C#
 - 📫 How to reach me: <a href="mailto:snikitin.de@gmail.com">snikitin.de@gmail.com</a>
