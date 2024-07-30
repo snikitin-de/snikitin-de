@@ -27,9 +27,10 @@ An engineer who is interested in programming, microcontrollers and 3D printing. 
 
 #### My certificates
 
-- [Basics of programming](https://stepik.org/cert/1877348?lang=en)
-- [C# for advanced](https://stepik.org/cert/2381959?lang=en)
-- [Writing window application in C#](https://stepik.org/cert/2168129?lang=en)
+- [PRO C#. Basics of programming](https://stepik.org/cert/1877348?lang=en)
+- [PRO C#. C# for advanced](https://stepik.org/cert/2381959?lang=en)
+- [PRO C#. Writing window application in C#](https://stepik.org/cert/2168129?lang=en)
+- [PRO C#. LINQ technology](https://stepik.org/cert/2502948?lang=en)
 - [Software Testing: Postman for API Testing](https://stepik.org/cert/2108518?lang=en)
 - [Docker for beginners + hands-on experience](https://stepik.org/cert/2142747?lang=en)
 - [Git technology](https://stepik.org/cert/2155848?lang=en)
