@@ -13,7 +13,7 @@ An engineer who is interested in programming, microcontrollers and 3D printing. 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,git,docker,grafana,postgres,postman,powershell,html,js,py,cpp,cs&perline=6" />
+    <img src="https://skillicons.dev/icons?i=cs,js,py,powershell,html,css,rabbitmq,sqlite,postgres,linux,git,docker,grafana,postman,regex" />
   </a>
 </p>
 
